@@ -1,0 +1,7 @@
+# Core pipeline uses only the standard library.
+# Optional features:
+openpyxl>=3.1      # --xlsx export
+matplotlib>=3.8    # --plot chart
+
+# Development
+pytest>=8.0
