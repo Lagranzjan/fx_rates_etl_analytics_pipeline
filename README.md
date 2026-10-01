@@ -29,8 +29,8 @@ USD    | 2026-09-29 |   3.8537 |   3.8478 |   +0.15% |   3.8290 |   3.7931 |   3
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/nbp-fx-etl.git
-cd nbp-fx-etl
+git clone https://github.com/Lagranzjan/fx_rates_etl_analytics_pipeline.git
+cd fx_rates_etl_analytics_pipeline
 python -m venv .venv && .venv\Scripts\activate      # Windows (Linux/macOS: source .venv/bin/activate)
 pip install -r requirements.txt
 
